@@ -1,4 +1,4 @@
-# Deep Learning for Medical Resource_Allocation in a Pandemic
+# Deep Learning for Medical Resource Allocation in a Pandemic
 
 ## Introduction
 
