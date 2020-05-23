@@ -6,4 +6,4 @@ COVID-19 is a novel pandemic with serious clinical manifestations. Insofar, it h
 
 ## Please see the following poster for more information:
 
-![Output sample] (https://github.com/hamid4ughi/Deep_Learning_for_Medical_Resource_Allocation_in_a_Pandemic/blob/master/AMS_667_Final_Project_Poster__Github.pdf)
+![Output sample](https://github.com/hamid4ughi/Deep_Learning_for_Medical_Resource_Allocation_in_a_Pandemic/blob/master/AMS_667_Final_Project_Poster__Github.pdf)
